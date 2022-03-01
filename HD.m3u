@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://z3.ax1x.com/2021/10/14/5lQ0jP.png" group-title="央视频道",CCTV-1
 rtsp://183.251.61.211:554/PLTV/88888888/224/3221226730/42006742.smil
 rtsp://221.203.83.35:554/PLTV/88888888/224/0/3221226118/iptv65795.smil
