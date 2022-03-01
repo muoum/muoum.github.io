@@ -36,7 +36,7 @@ http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV-5+
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江都市" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方频道",黑龙江都市频道
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江都市" tvg-logo="https://s4.ax1x.com/2022/03/01/bltqFf.png" group-title="地方频道",黑龙江都市频道
 http://39.135.135.83/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江影视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="地方频道",黑龙江影视频道
 http://39.135.135.83/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
