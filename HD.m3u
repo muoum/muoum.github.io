@@ -36,6 +36,19 @@ http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://s4.ax1x.com/2022/03/01/bl5OhT.png" group-title="央视频道",CCTV-5+
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8
 
+
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://s4.ax1x.com/2022/03/01/b1E6DH.png" group-title="付费频道",高清电影
+http://httpdvb.slave.yqdtv.com:13164/playurl?playtype=live&protocol=hls&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6&playtoken=ABCDEFGH&&programid=4200000180.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://s4.ax1x.com/2022/03/01/b1Ecbd.png" group-title="付费频道",动作电影
+http://httpdvb.slave.yqdtv.com:13164/playurl?playtype=live&protocol=hls&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6&playtoken=ABCDEFGH&&programid=4200000291.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://s4.ax1x.com/2022/03/01/b1EyKe.png" group-title="付费频道",家庭影院
+http://httpdvb.slave.yqdtv.com:13164/playurl?playtype=live&protocol=hls&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6&playtoken=ABCDEFGH&&programid=4200000290.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江都市" tvg-logo="https://s4.ax1x.com/2022/03/01/blUzaq.png" group-title="地方频道",黑龙江都市频道
 http://39.135.135.83/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江影视" tvg-logo="https://s4.ax1x.com/2022/03/01/blUzaq.png" group-title="地方频道",黑龙江影视频道
