@@ -36,23 +36,23 @@ http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV-5+
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江都市" tvg-logo="https://s4.ax1x.com/2022/03/01/bltqFf.png" group-title="地方频道",黑龙江都市频道
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江都市" tvg-logo="https://s4.ax1x.com/2022/03/01/blUzaq.png" group-title="地方频道",黑龙江都市频道
 http://39.135.135.83/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江影视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="地方频道",黑龙江影视频道
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江影视" tvg-logo="https://s4.ax1x.com/2022/03/01/blUzaq.png" group-title="地方频道",黑龙江影视频道
 http://39.135.135.83/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江文体" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="地方频道",黑龙江文体频道
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江文体" tvg-logo="https://s4.ax1x.com/2022/03/01/blUzaq.png" group-title="地方频道",黑龙江文体频道
 http://39.135.135.83/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="地方频道",黑龙江少儿频道
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江少儿" tvg-logo="https://s4.ax1x.com/2022/03/01/blUzaq.png" group-title="地方频道",黑龙江少儿频道
 http://39.135.135.83/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江公共农业" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="地方频道",黑龙江公共农业
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江公共农业" tvg-logo="https://s4.ax1x.com/2022/03/01/blUzaq.png" group-title="地方频道",黑龙江公共农业
 http://39.135.135.83/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江新闻法治" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="地方频道",黑龙江新闻法治
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江新闻法治" tvg-logo="https://s4.ax1x.com/2022/03/01/blUzaq.png" group-title="地方频道",黑龙江新闻法治
 http://39.135.135.83/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="厦门新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方频道",厦门新闻频道
+#EXTINF:-1 tvg-id="" tvg-name="厦门新闻" tvg-logo="https://s4.ax1x.com/2022/03/01/blaHT1.png" group-title="地方频道",厦门新闻频道
 http://39.135.55.7:6610/PLTV/88888888/224/3221226814/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="" tvg-name="厦门海峡" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="地方频道",厦门海峡频道
+#EXTINF:-1 tvg-id="" tvg-name="厦门海峡" tvg-logo="https://s4.ax1x.com/2022/03/01/bla7wR.png" group-title="地方频道",厦门海峡频道
 http://39.135.55.7:6610/PLTV/88888888/224/3221226777/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="" tvg-name="厦门生活" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="地方频道",厦门生活频道
+#EXTINF:-1 tvg-id="" tvg-name="厦门生活" tvg-logo="https://s4.ax1x.com/2022/03/01/blaqFx.png" group-title="地方频道",厦门生活频道
 http://39.135.55.7:6610/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 
 
